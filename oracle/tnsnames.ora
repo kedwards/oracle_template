@@ -1,0 +1,3 @@
+P1 = (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(host=edrs0017.cnpl.enbridge.com)(port=1521))(CONNECT_DATA=(SERVICE_NAME=WDCNV1DE.cnpl.enbridge.com)))
+P2 = (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(host=edrs0017.cnpl.enbridge.com)(port=1521))(CONNECT_DATA=(SERVICE_NAME=WDCNV2DE.cnpl.enbridge.com)))
+P3 = (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(host=edrs0017.cnpl.enbridge.com)(port=1521))(CONNECT_DATA=(SERVICE_NAME=WDCNV3DE.cnpl.enbridge.com)))
